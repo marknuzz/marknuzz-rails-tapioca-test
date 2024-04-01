@@ -1,0 +1,20 @@
+
+# Elastic Beanstalk Files
+*.swp
+*.sw*
+tmp/*
+log/*
+.instance-uuid
+.DS_Store
+.byebug_history
+
+.idea/*
+.cache/*
+.rvmrc
+
+/.vscode/*
+.bundle/config
+vendor/bundle
+
+.irb-history
+
